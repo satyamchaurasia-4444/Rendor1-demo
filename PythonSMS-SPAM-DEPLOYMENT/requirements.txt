@@ -5,4 +5,3 @@ regex==2026.9.10
 scikit-learn==1.9.1
 scipy==1.18.1
 streamlit==1.63.0
-
